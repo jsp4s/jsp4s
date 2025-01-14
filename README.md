@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Jagger Pennell, and I am a second year Computer Science student at Missouri State University. I am just now learning about using github, and I am excited to become proficient at it. My hobbies include singing in a church choir, gaming, and trivia. Additionally, I am a member of Delta Sigma Phi here at Missouri State, where I serve as Academics Chair and Treasurer.
+
+Nice to meet you!
+
 <!--
 **jsp4s/jsp4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
